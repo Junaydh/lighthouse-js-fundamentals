@@ -57,9 +57,20 @@
 //example 2
 
 
-const temperature = -273.15;
+// const temperature = -273.15;
 
-if (temperature < -40 || temperature > 40) {
-  console.log("Maybe going outside isn't such a great idea...");
-}
+// if (temperature < -40 || temperature > 40) {
+//   console.log("Maybe going outside isn't such a great idea...");
+// }
 
+
+//example 3
+
+// const raining = false;
+
+// if (!raining) {
+//   console.log('Leave your umbrella at home!');
+// }
+
+
+//fini
