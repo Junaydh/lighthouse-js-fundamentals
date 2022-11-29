@@ -3,8 +3,8 @@ function concat(arr1, arr2) {
   if (arr2.length > 0) {
     for (let i = 0; i < arr2.length; i++) {
       finalArr.push(arr2[i]);
+    }
+    return finalArr;
   }
-  return finalArr;
-}
-return finalArr
+  return finalArr
 }
